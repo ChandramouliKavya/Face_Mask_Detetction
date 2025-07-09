@@ -5,7 +5,7 @@ Due to global health crises such as the COVID-19 pandemic, public health regulat
 Organizations need an automated solution to detect whether individuals are wearing masks properly to ensure safety compliance and avoid potential health risks or penalties.
 
 ## Dataset :
-https://www.kaggle.com/datasets/andrewmvd/face-mask-detection
+https://www.kaggle.com/datasets/omkargurav/face-mask-dataset
 
 ## 👉 Face Mask Detection App : 
 https://huggingface.co/spaces/kavyasri0821/face_mask_detetction
